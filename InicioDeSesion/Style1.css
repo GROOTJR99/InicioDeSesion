@@ -1,0 +1,26 @@
+body{
+    background-color: aqua;
+}
+section{
+    background-image: linear-gradient(
+    rgba(0,0,0,0.5),
+    rgba(0,0,0,0.5)
+    ), 
+    url(Images/medio\ ambiente.png) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0%;
+    padding: 15rem;
+    
+}
+section h1{
+    font-size: 5rem;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+article{
+    background-color: whitesmoke;
+    display: grid;
+    place-content: center;
+
+}
